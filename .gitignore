@@ -2,6 +2,9 @@
 Thumbs.db
 ehthumbs.db
 
+# R files
+*.Rhistory
+
 # Folder config file
 Desktop.ini
 
